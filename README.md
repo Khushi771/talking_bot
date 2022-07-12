@@ -10,7 +10,7 @@ The model is given a prior consisting of part of a conversation.
 Then the network generates one paragraph to complete one answer in the conversation.
 Next we can add our own response and the cycle repeats.
 
-The ability to recognise and output speech is also added using open-source models and libraries.
+The ability to recognise and give output speech is also added using open-source models and libraries.
 
 <br>
 
